@@ -165,6 +165,7 @@ cython_debug/
 cardDetectionDataset/test
 cardDetectionDataset/train
 cardDetectionDataset/valid
+cardDetectionDataset/cardDetectionDataset.zip
 
 # tensorboard logs and checkpoints
 logs/CenterNet
