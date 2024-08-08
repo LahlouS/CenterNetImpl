@@ -170,5 +170,6 @@ cardDetectionDataset/valid
 logs/CenterNet
 
 # mac stuff
-
 .DS_Store
+
+model_parameters_save
