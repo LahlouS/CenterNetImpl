@@ -14,9 +14,11 @@ see cardDetectionDataset/README.md for more info
 
 - pip the requirement.txt if needed
 
-- change hyperparameters and environnement parameters directly in the train.py file (L299 - L328)
+- change hyperparameters and environnement parameters directly in the **train.py** file (L299 - L328)
 
 then 
 ```bash
 python train.py
 ```
+
+or use the trainTorch.py file for pure pytorch script version
