@@ -24,3 +24,6 @@ python train.py
 or use the trainTorch.py file for pure pytorch script version
 
 
+### Some nice result I got:
+
+![Alt text](./.images/results.png)
