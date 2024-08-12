@@ -8,7 +8,7 @@ logs using TensorBoard
 #### Dataset
 
 the dataset was downloaded from here: https://universe.roboflow.com/james-bqgdn/playing-card-detection-8ejwj
-see cardDetectionDataset/README.md for more info
+see **cardDetectionDataset/README.md** for more info
 
 #### Run the code
 
